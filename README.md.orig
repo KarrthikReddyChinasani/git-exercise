@@ -1,6 +1,9 @@
 Hey first commit
 second commit
+<<<<<<< HEAD
 New branch commit
+=======
 Third line
 
  ##Fixed a bug
+>>>>>>> 089cfb99f5dd4452b4e2241fc116af415b395eb4
